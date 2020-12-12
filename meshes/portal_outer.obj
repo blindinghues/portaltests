@@ -1,6 +1,6 @@
 # Blender v2.82 (sub 7) OBJ File: ''
 # www.blender.org
-mtllib portal.mtl
+mtllib portal_outer.mtl
 o Plane
 v 0.589702 -1.000000 0.000000
 v -0.589702 -1.000000 0.000000
